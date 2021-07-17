@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/tanislavivanov/tanislavONLINE">
-    <img src="https://i.imgur.com/8fCv182.jpg" alt="Logo" width="200" height="80">
+    <img src="https://tanislav.online/github/tanislav.png" alt="Logo" width="220" height="36">
   </a>
 
   <h3 align="center">tanislavONLINE</h3>
