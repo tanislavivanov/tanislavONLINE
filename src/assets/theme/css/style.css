@@ -295,7 +295,7 @@ iframe {
   font-weight: 600;
   border-width: 1px;
   font-style: normal;
-  margin: 0.6rem 0.6rem;
+  margin: 0.6rem;
   white-space: normal;
   -webkit-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
@@ -313,21 +313,21 @@ iframe {
 
 .btn-sm {
   font-weight: 600;
-  letter-spacing: 0px;
+  letter-spacing: 0;
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
 }
 
 .btn-md {
   font-weight: 600;
-  letter-spacing: 0px;
+  letter-spacing: 0;
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
 }
 
 .btn-lg {
   font-weight: 600;
-  letter-spacing: 0px;
+  letter-spacing: 0;
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
 }
@@ -341,8 +341,8 @@ iframe {
 }
 
 nav .mbr-section-btn {
-  margin-left: 0rem;
-  margin-right: 0rem;
+  margin-left: 0;
+  margin-right: 0;
 }
 
 /*! Btn icon margin */
@@ -515,31 +515,31 @@ nav .mbr-section-btn {
 
 @keyframes arrowdown {
   0% {
-    -webkit-transform: translateY(0px);
-            transform: translateY(0px);
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
   }
   50% {
     -webkit-transform: translateY(-5px);
             transform: translateY(-5px);
   }
   100% {
-    -webkit-transform: translateY(0px);
-            transform: translateY(0px);
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
   }
 }
 
 @-webkit-keyframes arrowdown {
   0% {
-    -webkit-transform: translateY(0px);
-            transform: translateY(0px);
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
   }
   50% {
     -webkit-transform: translateY(-5px);
             transform: translateY(-5px);
   }
   100% {
-    -webkit-transform: translateY(0px);
-            transform: translateY(0px);
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
   }
 }
 
@@ -874,8 +874,8 @@ body {
   transition: border-color 0.25s ease 0s;
   border: 1px solid transparent !important;
   border-radius: 4px;
-  -webkit-box-shadow: rgba(0, 0, 0, 0.07) 0px 1px 1px 0px, rgba(0, 0, 0, 0.07) 0px 1px 3px 0px, rgba(0, 0, 0, 0.03) 0px 0px 0px 1px;
-          box-shadow: rgba(0, 0, 0, 0.07) 0px 1px 1px 0px, rgba(0, 0, 0, 0.07) 0px 1px 3px 0px, rgba(0, 0, 0, 0.03) 0px 0px 0px 1px;
+  -webkit-box-shadow: rgba(0, 0, 0, 0.07) 0 1px 1px 0, rgba(0, 0, 0, 0.07) 0 1px 3px 0, rgba(0, 0, 0, 0.03) 0 0 0 1px;
+          box-shadow: rgba(0, 0, 0, 0.07) 0 1px 1px 0, rgba(0, 0, 0, 0.07) 0 1px 3px 0, rgba(0, 0, 0, 0.03) 0 0 0 1px;
 }
 
 .form-active .form-control:invalid {
@@ -1014,8 +1014,7 @@ blockquote {
 
 .app-video-wrapper > img {
   opacity: 1;
-}
-/*# sourceMappingURL=style.css.map */.engine {
+}.engine {
 	position: absolute;
 	text-indent: -2400px;
 	text-align: center;
