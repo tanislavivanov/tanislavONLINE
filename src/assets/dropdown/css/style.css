@@ -199,7 +199,7 @@
       color: #c0a375; }
   .nav-dropdown-sm .nav-btn {
     position: relative;
-    padding: 1.5625rem 1.5625rem 0 1.5625rem; }
+    padding: 1.5625rem 1.5625rem 0; }
     .nav-dropdown-sm .nav-btn::before {
       border-top: 1px dotted rgba(255, 255, 255, 0.1);
       content: "";
@@ -255,11 +255,9 @@
 
 .navbar-toggleable-sm.opened .nav-dropdown .dropdown-submenu {
   left: 0;
-  margin-left: 00rem;
-  margin-top: 0rem;
+  margin-left: 00;
+  margin-top: 0;
   top: 0; }
 
 .is-builder .nav-dropdown.collapsing {
   transition: none !important; }
-
-/*# sourceMappingURL=style.css.map */
