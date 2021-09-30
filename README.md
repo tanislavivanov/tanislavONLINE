@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/tanislavivanov/tanislavONLINE">
-    <img src="https://api.tanislav.online/v1/cdn/secure/tanislav.png" alt="Logo" width="220" height="36">
+    <img src="https://i.imgur.com/k7aTLi6.png" alt="Logo" width="220" height="36">
   </a>
 
   <h3 align="center">tanislavONLINE</h3>
@@ -32,7 +32,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-![](https://api.tanislav.online/v1/cdn/secure/banner.jpeg)
+![](https://i.imgur.com/CVTrV9x.jpg)
 
 A beautiful new design and faster page load times.
 That's the new website. Made for you by me.
